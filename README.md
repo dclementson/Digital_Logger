@@ -8,4 +8,4 @@ Two data outputs are provided to trigger an oscilloscope.  One pulses the first 
 
 The sampling interval is about 2 microseconds.  The report timeout is currently 4000 ms.
 
-The eight opto-isolator LED currents are limited by resistors in a 16-pin network.  The value of these resostors should be chosen based on the voltages to be monitored.  LED current should be about 10mA.
+The eight opto-isolator LED currents are limited by resistors in a 16-pin network.  The value of these resistors should be chosen based on the voltages to be monitored.  LED current should be about 10mA.
