@@ -18,7 +18,7 @@
 #include "SD.h"
 #include "SPI.h"
 
-#define MAX_NUMBER_OF_SAMPLES 100  // size of sample buffer
+#define MAX_NUMBER_OF_SAMPLES 200  // size of sample buffer
 #define MAX_SAMPLE_LENGTH 4000      // druation of capture in ms
 
 struct sample {
